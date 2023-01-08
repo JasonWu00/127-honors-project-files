@@ -14,7 +14,7 @@ To learn about the significance of each of the `.pdf` files, continue reading th
 
 ## What is this project about?
 
-For this project the group I was assigned to was tasked to analyze [an open-source data set on Airbnb locations in New York City](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data), more specifically Airbnb locations in the Bronx. Over the course of the project our group pruned and cleaned the data, carried out analysis on this cleaned data, and presented our findings through various graphs and charts presented in the form of several `github.io` webpages.
+For this project the group I was assigned to was tasked to analyze [an open-source data set on Airbnb locations in New York City](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data), more specifically Airbnb locations in the Bronx. Over the course of the project our group pruned and cleaned the data, carried out analysis on this cleaned data, and presented our findings through various graphs and charts presented in the form of several `github.io` webpages. Each team member focused on a specific neighborhood in the Bronx to analyze.
 
 ## What is the significance of these files?
 
@@ -22,6 +22,8 @@ For this project the group I was assigned to was tasked to analyze [an open-sour
 
 [hc9.pdf](../blob/master/hc9.pdf) contains an html map I generated using `folium` and the code behind it. It is not as relevant to the project as the other files.
 
-[hc10.pdf](../blob/master/hc10.pdf) contains a couple of screenshots of my now deleted `github.io` website and a link to the website. Navigating to the link will yield a 404 error. The screenshots are proof that the website did exist at one point.
+[hc10.pdf](../blob/master/hc10.pdf) contains a couple of screenshots of my now deleted `github.io` website and a link to the website. Navigating to the link will yield a 404 error. The screenshots are proof that the website did exist at one point. 
 
-[hc11.pdf](../blob/master/hc11.pdf) contains screenshots of the main `github.io` website that summarizes our group's findings and a link to the website. This website is still functional, as are the websites for the other group members.
+[hc11.pdf](../blob/master/hc11.pdf) contains screenshots of the main `github.io` website that summarizes our group's findings and a link to the website. This website is still functional, as are the websites for the other group members. 
+
+Since GitHub rich display does not allow for clickable links in `.pdf` files, here is a [direct link to the website](https://jessicalrsparacio.github.io/TheBronx/). From there you can access the respective website pages of each team member and confirm that my corresponding website is missing.
