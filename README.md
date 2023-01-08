@@ -1,6 +1,6 @@
 # 127-honors-project-files
 
-Author: Ze Hong Wu
+Author: Ze Hong Wu ( [JasonWu00](https://github.com/JasonWu00) )
 
 ## What is this?
 
