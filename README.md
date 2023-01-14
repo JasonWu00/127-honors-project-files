@@ -30,4 +30,4 @@ Since GitHub rich display does not allow for clickable links in `.pdf` files, he
 
 ## Why is the Python code in `.pdf` files?
 
-Normally, this code should be in separate `.py` files and labeled accordingly. However, the GradeScope submission slots for these project assignments specifically required everything - code and images - to be packed into a single `.pdf` file for submission.
+Normally, the code should be in separate `.py` files and labeled accordingly. However, the GradeScope submission slots for these project assignments specifically required everything - code and images - to be packed into a single `.pdf` file (per assignment) for submission.
