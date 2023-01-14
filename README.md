@@ -27,3 +27,7 @@ For this project the group I was assigned to was tasked to analyze [an open-sour
 [hc11.pdf](../blob/master/hc11.pdf) contains screenshots of the main `github.io` website that summarizes our group's findings and a link to the website. This website is still functional, as are the websites for the other group members. 
 
 Since GitHub rich display does not allow for clickable links in `.pdf` files, here is a [direct link to the website](https://jessicalrsparacio.github.io/TheBronx/). From there you can access the respective website pages of each team member and confirm that my corresponding website is missing.
+
+## Why is the Python code in `.pdf` files?
+
+Normally, this code should be in separate `.py` files and labeled accordingly. However, the GradeScope submission slots for these project assignments specifically required everything - code and images - to be packed into a single `.pdf` file for submission.
